@@ -1,4 +1,4 @@
-# TensorflowJS
+# Tensorflow.JS
 
 Save the CircularRegression.html file to your local directory and then open it on Chrome.
 
